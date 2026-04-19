@@ -1,0 +1,12 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  padding: 0;
+}
+
+a,
+.orange {
+  text-decoration: none;
+  color: hsla(30, 100%, 50%, 1);
+}
